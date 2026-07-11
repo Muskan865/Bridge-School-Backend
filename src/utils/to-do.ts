@@ -1,0 +1,1 @@
+// If multiple files need the same function, it belongs here.
